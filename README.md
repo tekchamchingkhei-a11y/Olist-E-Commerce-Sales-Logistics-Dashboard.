@@ -5,9 +5,8 @@
 - **9 tables | 1.6M+ records**
 
 ---
-
 ### 🏠 Page 1 — Executive Summary
-![Executive Summary](images/Executive_Summary.png)
+![Executive Summary](images/Executive%20Summary.png)
 
 **Visuals:**
 - Total Customers — 99.44K
@@ -20,9 +19,8 @@
 - Revenue by State Map
 
 ---
-
 ### 👥 Page 2 — Customer & Product Analysis
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](images/Customer%20&%20Product%20Analysis.png)
 
 **Visuals:**
 - Top 10 States by Customers — SP (40K)
@@ -35,7 +33,7 @@
 ---
 
 ### 🏪 Page 3 — Seller Performance
-![Seller Performance](images/Seller_Performance.png)
+![Seller Performance](images/Seller%20Performance.png)
 
 **Visuals:**
 - Total Sellers — 3,095
@@ -46,7 +44,7 @@
 ---
 
 ### 🚚 Page 4 — Delivery & Reviews
-![Delivery Reviews](images/Delivery_Reviews.png)
+![Delivery Reviews](images/Delivery%20&%20Reviews.png)
 
 **Visuals:**
 - Avg Review Score — 4.09 ⭐
